@@ -1,0 +1,4 @@
+This project is configured for GitHub Pages at:
+https://abdulsammedtakiyudeen-bot.github.io/Wassce-past-questions-/
+
+Vite base is /Wassce-past-questions-/ and the build output is dist/.

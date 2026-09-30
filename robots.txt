@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abdulsammedtakiyudeen-bot.github.io/Wassce-past-questions-/sitemap.xml
