@@ -7,7 +7,7 @@ import tailwindcss from '@tailwindcss/vite';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
-  base: '/Wassce-past-questions-/',
+  base: '/Wasscepastquestions4/',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
